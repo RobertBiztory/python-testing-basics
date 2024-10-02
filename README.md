@@ -1,6 +1,6 @@
 # Readme for thething
 
-## Foldure structure, packaging, imports
+## Folder structure, packaging, imports
 
 src/your-module-name -> the source code
 src/tests -> tests for your code
