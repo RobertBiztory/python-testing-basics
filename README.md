@@ -3,7 +3,7 @@
 ## Folder structure, packaging, imports
 
 src/your-module-name -> the source code  
-src/tests -> tests for your code  
+tests/ -> tests for your code  
 
 Pyproject.toml -> packages the code and makes it installable  
 
